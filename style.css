@@ -1201,6 +1201,7 @@ body.lightbox-open { overflow: hidden; }
   overflow: hidden;
   min-height: 220px;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
@@ -1221,7 +1222,7 @@ body.lightbox-open { overflow: hidden; }
 }
 
 /* ---- Stage 1: suspenseful intro line ---- */
-.surprise__intro { width: 100%; padding: 18px 6px; }
+.surprise__intro { width: 100%; padding: 18px 6px; text-align: center; }
 
 .surprise__intro-text {
   font-family: var(--font-script);
