@@ -177,19 +177,19 @@ With love and warm wishes,
     },
     {
       id:           12,
-      name:         'ZAKII',
+      name:         'BAGUS SENSEI',
       photo:        'assets/images/friends/friend12.jpg',
       togetherPhoto: null,
       music:        'assets/music/friends/friend12.mp3',
-      message:      'Happy birthday to someone who feels like home. Sixteen years of you in this world has made it so much better — I can\'t wait to see what this year brings you.',
+      message:      'お誕生日おめでとうございます (Otanjoubi Omedetou Gozaimasu) Happy Birthday Lakeisha, semoga panjang umur, sehat selalu, dan di permudah rezeki nya sama Tuhan Yang Maha Kuasa, jangan plenger lagi.',
     },
     {
       id:           13,
-      name:         'NAZZKUY',
+      name:         'RAUFFF',
       photo:        'assets/images/friends/friend13.jpg',
       togetherPhoto: null,
       music:        'assets/music/friends/friend13.mp3',
-      message:      'Happy birthday to someone who feels like home. Sixteen years of you in this world has made it so much better — I can\'t wait to see what this year brings you.',
+      message:      'HEPI BESDEY DERDERLYYYYY!!.Wish you hepi hepi teruss, ketiban uang segepok dari langit and most importantly. wish youu sehat walafiat terus yaa. cant bear the thought of losing someone as crazy as you!!!!',
     },
     {
       id:           14,
@@ -217,8 +217,7 @@ With love and warm wishes,
     photo:   'assets/images/final-photo.jpg',
     music:   'assets/music/final-letter.mp3',
     message: `Hai deyyikk,
-
-Kalau kamu sudah sampai di bagian ini, berarti kamu sudah membuka semua surat, membaca semua ucapan, dan menemukan surat terakhir yang sengaja aku simpan untuk paling akhir.
+    Kalau kamu sudah sampai di bagian ini, berarti kamu sudah membuka semua surat, membaca semua ucapan, dan menemukan surat terakhir yang sengaja aku simpan untuk paling akhir.
 
 Jujur saja, bagian ini adalah bagian yang paling sulit untuk aku tulis ahehehe bukan karena gamau ngucap apapun tapi kayanya kebanyakan yang mau di ucapin...
 
@@ -230,11 +229,11 @@ Di hari ulang tahunmu ini, ada beberapa hal yang ingin aku sampaikan.
 
 Yang pertama tentu saja tidak lain dan tidak bukan adalah maaf.
 
-Maaf kalau selama kita "masih berteman", aku pernah banyak membuat kesalahan. Maaf untuk perkataan yang mungkin menyakitkan, sikap yang mungkin mengecewakan, keputusan yang mungkin membuatmu kesal, dan semua hal yang seharusnya bisa aku lakukan dengan lebih baik.
+Maaf kalau selama kita dulu bersama, aku pernah banyak membuat kesalahan. Maaf untuk perkataan yang mungkin menyakitkan, sikap yang mungkin mengecewakan, keputusan yang mungkin membuatmu kesal, dan semua hal yang seharusnya bisa aku lakukan dengan lebih baik.
 
 Aku sadar bahwa selama satu tahun terakhir, aku melakukan banyak hal yang mungkin meninggalkan kesan buruk bagimu. Semakin lama aku melihat ke belakang, semakin banyak hal yang aku sadari seharusnya tidak terjadi. Ada banyak momen yang kalau bisa diulang, mungkin akan aku lakukan dengan cara yang berbeda.
 
-Aku tidak menulis ini untuk mencari pembenaran atau meminta semuanya dilupakan begitu saja sihhh,tapi tapi Aku hanya ingin mengakui bahwa aku memang punya kesalahan, dan aku benar-benar minta maaf untuk itu serius deh.
+Aku tidak menulis ini untuk mencari pembenaran atau meminta semuanya dilupakan begitu saja sihhh, tapi aku hanya ingin mengakui bahwa aku memang punya kesalahan, dan aku benar-benar minta maaf untuk itu serius deh.
 
 Kalau boleh jujur, ada satu hal tentangmu yang selalu aku ingat.
 
@@ -246,7 +245,7 @@ Dulu aku sering merasa kesal karena itu.
 
 Tapi semakin lama aku sadar kalau mungkin itu memang bagian dari dirimu. Kamu bukan orang yang mudah mengikuti apa kata orang lain hanya karena mereka memintanya. Kamu punya cara berpikir dan pendirianmu sendiri.
 
-Meskipun kadang membuat orang lain pusing (aku contohnya), aku rasa itu juga salah satu hal yang membuatmu menjadi dirimu sendiri.
+Mescipun kadang membuat orang lain pusing (aku contohnya), aku rasa itu juga salah satu hal yang membuatmu menjadi dirimu sendiri.
 
 Aku juga tidak tahu bagaimana kamu memandangku sekarang sihh sejujurnya.
 
@@ -258,35 +257,27 @@ Mungkin sudah tidak peduli.
 
 Atau mungkin aku hanya seseorang dari masa lalu yang sesekali teringat ketika tidak sengaja muncul di hidupmuuu...
 
-Dan jujur saja, aku tidak punya hak untuk menentukan bagaimana kamu harus melihatku sihh deyy
+Dan jujur saja, aku tahu aku sudah tidak punya hak lagi untuk ada di hidupmu sihh deyy.
 
-Karena itu aku hanya ingin bertanya satu hal... satu hal penting..
+Melihat semua yang sudah terjadi, aku sadar kalau memaksakan diri untuk tetap ada di dekatmu, atau bahkan meminta untuk tetap berteman, mungkin malah akan jadi beban buat kamu. Aku nggak mau egois lagi. Aku paham kalau setiap orang berhak menentukan siapa yang layak dipertahankan, dan mungkin peranku di hidupmu memang sudah selesai sampai di sini.
 
-Apakah kita masih bisa berteman?
+Jadi, lewat surat ini, aku memutuskan untuk berjalan mundur. Aku memilih untuk melupakan ego, melupakan harapan-harapan lama kita, dan pelan-pelan meninggalkan tempatku di hidupmu. Aku pergi bukan karena benci atau tidak peduli lagi, tapi karena aku menghargai ketenanganmu. Sungguh, kali ini aku tidak akan memaksa atau mengusik hidupmu lagi.
 
-Kalau jawabannya tidak, tidak apa-apa deyy...
+Tapi, meskipun jalan kita sekarang sudah berbeda dan aku memilih untuk melangkah pergi, satu hal yang tidak akan pernah berubah: aku tetap ingin yang terbaik untukmu.
 
-Sungguh kali ini aku tidak akan memaksa apapun itu...
+Di umur yang ke-16 ini, kamu harus tahu kalau kamu itu kuat. Kamu sudah melewati banyak hal hebat sampai bisa ada di titik ini. Jadi, tolong jangan pernah ragu sama kemampuan dirimu sendiri, ya? Di depan sana pasti ada banyak tantangan baru, tapi aku yakin banget kamu bisa lewatin itu semua dengan caramu sendiri yang keren.
 
-Aku tidak akan memaksakan apa pun. Aku tidak akan marah. Aku tidak akan menyalahkanmu. Setelah semua yang terjadi, aku mengerti kalau setiap orang berhak menentukan siapa yang ingin mereka pertahankan dalam hidupnya.....
-
-Tapi kalau jawabannya iya, aku akan sangat bersyukur....
-
-Bukan karena aku berharap semuanya kembali seperti dulu, melainkan karena aku masih menghargai keberadaanmu sebagai seseorang yang pernah memberi banyak warna dalam hidupku.
-
-Apa pun jawabanmu nanti, ada satu hal yang tidak akan berubah.
-
-Aku tetap ingin yang terbaik untukmu.
+Semangat terus buat sekolahnya, buat semua impian yang mau kamu kejar, dan buat hari-hari yang bakal kamu jalanin ke depan. Kamu punya potensi besar, jadi jangan biarin hal-hal kecil atau masa lalu bikin kamu insecure atau patah semangat. Tunjukin kalau kamu bisa jadi versi terbaik dari dirimu!
 
 Aku berharap kamu berhasil mencapai impian-impianmu.
 
-Aku berharap kamu bertemu orang-orang yang tulus menyayangimu.
+Aku berharap kamu bertemu orang-orang baru yang tulus menyayangimu dan bisa memperlakukanmu jauh lebih baik daripada aku dulu.
 
-Aku berharap kamu selalu diberikan kesehatan, kebahagiaan, dan kekuatan saat menghadapi hari-hari yang sulit.
+Aku berharap kamu selalu diberikan kesehatan, kebahagiaan, dan kekuatan ekstra saat menghadapi hari-hari yang sulit.
 
 Aku berharap suatu hari nanti kamu bisa melihat kembali perjalanan hidupmu dan bangga pada semua hal yang sudah berhasil kamu lewati.
 
-Dan mungkin, meskipun tidak selalu berada di dekatmu, aku akan tetap menjadi seseorang yang diam-diam ikut senang melihatmu baik-baik saja.
+Dan mungkin, meskipun nanti kita sudah asing dan aku tidak lagi berada di dekatmu, aku akan tetap menjadi seseorang yang dari jauh ikut senang mendengar kabar kalau kamu baik-baik saja.
 
 Melihatmu bahagia.
 
@@ -294,22 +285,19 @@ Melihatmu berhasil.
 
 Melihatmu mencapai hal-hal yang dulu hanya menjadi impian.
 
-Bukan karena aku ingin selalu ada dalam hidupmu, tetapi karena aku memang ingin hal-hal baik terjadi padamu.
+Bukan karena aku ingin kembali, tetapi karena aku memang ingin hal-hal baik terjadi padamu.
 
-Terima kasih sudah menjadi bagian dari cerita yang pernah aku jalani.
-
-Terima kasih untuk semua kenangan, pelajaran, tawa, dan bahkan kesalahan yang membuatku belajar menjadi pribadi yang lebih baik.
+Terima kasih sudah menjadi bagian dari cerita yang pernah aku jalani. Terima kasih untuk semua kenangan, pelajaran, tawa, dan bahkan kesalahan yang membuatku belajar menjadi pribadi yang lebih baik.
 
 Sekali lagi, selamat ulang tahun yang ke-16, Derly.
 
-Semoga tahun ini menjadi awal dari banyak hal baik yang menunggumu di depan.
+Semoga tahun ini menjadi awal dari banyak pencapaian luar biasa dan kebahagiaan yang menunggumu di depan.
 
 Jaga dirimu baik-baik.
 
 Dan semoga kamu selalu menemukan alasan untuk tersenyum.
 
--MAMASS RADITTHEOKKK
-`,
+-MAMASS RADITTHEOKKK`,
   },
 
   /* ----------------------------------------------------------
@@ -325,10 +313,10 @@ Dan semoga kamu selalu menemukan alasan untuk tersenyum.
      Ganti image & music di bawah dengan file kocak kamu sendiri.
   ---------------------------------------------------------- */
   surprise: {
-    delayMs:     5000,                          // jeda (ms) sebelum tombol muncul setelah final letter ditutup
-    triggerDelayMs: 1700,                       // jeda antara intro selesai diketik & jumpscare muncul
+    delayMs:     2000,                          // jeda (ms) sebelum tombol muncul setelah final letter ditutup
+    triggerDelayMs: 3000,                       // jeda antara intro selesai diketik & jumpscare muncul
     introText:   "deyy ada satu hal yang mau aku sampaikan",
-    captionText: 'entah kenapa lagu ini selalu bikin aku inget satu kalimat "mau disuruh memilih berapa kali pun aku akan tetep pilih kamu"',
+    captionText: 'ada satu lagu yang entah kenapa selalu bikin aku inget kalimat, "mau disuruh memilih berapa kali pun, aku akan tetep pilih kamu." lucu yaa, tapi sekarang kalimat itu udah berubah makna banget buat aku. maksudnya tuh, aku bersyukur banget pernah milih kamu di masa lalu, dan aku sama sekali nggak nyesel sama semua waktu yang udah pernah kita habisin bareng. tapi untuk sekarang dan ke depannya, pilihan terbaik yang bisa aku ambil ya melepaskan kamu, dan ngebiarin kamu bahagia meskipun tanpa ada aku lagi di dalamnya.',
     image:       'assets/images/surprise.gif',  // ganti dengan gif/foto kocak kamu
     music:       'assets/music/surprise.mp3',   // ganti dengan lagu kocak/troll kamu
   },
@@ -865,7 +853,11 @@ function openFriendModal(index) {
   friendModal.classList.add('is-active');
   friendModal.setAttribute('aria-hidden', 'false');
 
-  fadeOut(audioMain).then(() => playFriendAudio(friend));
+  fadeOut(audioMain).then(() => {
+    if (friendModal.classList.contains('is-active') && state.activeFriendIndex === index) {
+      playFriendAudio(friend);
+    }
+  });
 
   friendModalTimers.push(setTimeout(() => {
     modalEnvelope.classList.add('is-open');
@@ -909,7 +901,11 @@ function closeFriendModal() {
   // Reset lbAttached agar bisa dipasang ulang saat modal dibuka berikutnya
   if (modalFriendPhoto)   delete modalFriendPhoto.dataset.lbAttached;
   if (modalTogetherPhoto) delete modalTogetherPhoto.dataset.lbAttached;
-  fadeOut(audioFriend).then(() => { if (state.hasOpenedLetter) playMain(); });
+  fadeOut(audioFriend).then(() => {
+    if (state.hasOpenedLetter && !friendModal.classList.contains('is-active') && !finalModal.classList.contains('is-active') && !surpriseModal.classList.contains('is-active')) {
+      playMain();
+    }
+  });
 }
 
 /* ================================================================
@@ -941,7 +937,11 @@ function openFinalLetter() {
   finalLetterTextEl.dataset.typed  = 'false';
   finalLetterTextEl.dataset.typing = 'false';
 
-  Promise.all([fadeOut(audioMain), fadeOut(audioFriend)]).then(playFinalAudio);
+  Promise.all([fadeOut(audioMain), fadeOut(audioFriend)]).then(() => {
+    if (finalModal.classList.contains('is-active')) {
+      playFinalAudio();
+    }
+  });
   burstFromElement(finalEnvelopeBtn, { count: 30, symbols: ['💙', '🤍', '✨', '🎉'] });
 
   finalLetterTimer = setTimeout(() => {
@@ -956,7 +956,11 @@ function closeFinalModal() {
   document.body.classList.remove('modal-open');
   if (finalLetterTimer) { clearTimeout(finalLetterTimer); finalLetterTimer = null; }
   resetFinalEnvelopeVisuals();
-  fadeOut(audioFinal).then(() => { if (state.hasOpenedLetter) playMain(); });
+  fadeOut(audioFinal).then(() => {
+    if (state.hasOpenedLetter && !friendModal.classList.contains('is-active') && !finalModal.classList.contains('is-active') && !surpriseModal.classList.contains('is-active')) {
+      playMain();
+    }
+  });
 
   // Easter egg: beberapa saat setelah final letter ditutup pertama kali,
   // munculkan tombol kecil "one last thing..." di pojok layar.
@@ -1051,7 +1055,11 @@ function closeSurpriseModal() {
   document.body.classList.remove('modal-open');
   resetSurpriseStageVisuals();
 
-  fadeOut(audioSurprise).then(() => { if (state.hasOpenedLetter) playMain(); });
+  fadeOut(audioSurprise).then(() => {
+    if (state.hasOpenedLetter && !friendModal.classList.contains('is-active') && !finalModal.classList.contains('is-active') && !surpriseModal.classList.contains('is-active')) {
+      playMain();
+    }
+  });
 }
 
 /* A tiny synthesized "boop-boop-BWAA" stinger so the jumpscare has an
@@ -1159,6 +1167,10 @@ function setVolumeImmediate(audioEl, vol) {
 }
 
 function fadeIn(audioEl, target = state.volume, duration = 3000) {
+  if (audioEl._fadeInterval) {
+    clearInterval(audioEl._fadeInterval);
+    audioEl._fadeInterval = null;
+  }
   return new Promise((resolve) => {
     audioEl.volume = 0;
     audioEl.muted  = state.isMuted;
@@ -1169,26 +1181,35 @@ function fadeIn(audioEl, target = state.volume, duration = 3000) {
     const steps    = 24;
     const stepTime = duration / steps;
     let i = 0;
-    const id = setInterval(() => {
+    audioEl._fadeInterval = setInterval(() => {
       i++;
       audioEl.volume = Math.min(target, (target * i) / steps);
-      if (i >= steps) { clearInterval(id); resolve(); }
+      if (i >= steps) {
+        clearInterval(audioEl._fadeInterval);
+        audioEl._fadeInterval = null;
+        resolve();
+      }
     }, stepTime);
   });
 }
 
 function fadeOut(audioEl, duration = 900) {
+  if (audioEl._fadeInterval) {
+    clearInterval(audioEl._fadeInterval);
+    audioEl._fadeInterval = null;
+  }
   return new Promise((resolve) => {
     if (audioEl.paused || audioEl.volume === 0) { resolve(); return; }
     const startVol = audioEl.volume;
     const steps    = 14;
     const stepTime = duration / steps;
     let i = 0;
-    const id = setInterval(() => {
+    audioEl._fadeInterval = setInterval(() => {
       i++;
       audioEl.volume = Math.max(0, startVol * (1 - i / steps));
       if (i >= steps) {
-        clearInterval(id);
+        clearInterval(audioEl._fadeInterval);
+        audioEl._fadeInterval = null;
         audioEl.pause();
         resolve();
       }
@@ -1197,6 +1218,12 @@ function fadeOut(audioEl, duration = 900) {
 }
 
 function playMain() {
+  // Pause other audios to prevent overlap
+  [audioFriend, audioFinal, audioSurprise].forEach(a => {
+    if (a._fadeInterval) { clearInterval(a._fadeInterval); a._fadeInterval = null; }
+    a.pause();
+  });
+
   if (audioMain.getAttribute('src') !== CONFIG.mainMusic.file) {
     audioMain.src = CONFIG.mainMusic.file;
   }
@@ -1208,6 +1235,12 @@ function playMain() {
 }
 
 function playFriendAudio(friend) {
+  // Pause other audios to prevent overlap
+  [audioMain, audioFinal, audioSurprise].forEach(a => {
+    if (a._fadeInterval) { clearInterval(a._fadeInterval); a._fadeInterval = null; }
+    a.pause();
+  });
+
   audioFriend.src      = friend.music;
   audioFriend.loop     = false;
   state.currentAudioKey = 'friend';
@@ -1217,6 +1250,12 @@ function playFriendAudio(friend) {
 }
 
 function playFinalAudio() {
+  // Pause other audios to prevent overlap
+  [audioMain, audioFriend, audioSurprise].forEach(a => {
+    if (a._fadeInterval) { clearInterval(a._fadeInterval); a._fadeInterval = null; }
+    a.pause();
+  });
+
   audioFinal.src       = CONFIG.finalLetter.music;
   audioFinal.loop      = true;
   state.currentAudioKey = 'final';
@@ -1226,6 +1265,12 @@ function playFinalAudio() {
 }
 
 function playSurpriseAudio() {
+  // Pause other audios to prevent overlap
+  [audioMain, audioFriend, audioFinal].forEach(a => {
+    if (a._fadeInterval) { clearInterval(a._fadeInterval); a._fadeInterval = null; }
+    a.pause();
+  });
+
   audioSurprise.src   = CONFIG.surprise.music;
   audioSurprise.loop  = true;
   state.currentAudioKey = 'surprise';
