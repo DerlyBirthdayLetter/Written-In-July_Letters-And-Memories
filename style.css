@@ -532,6 +532,22 @@ section {
 }
 .friend-card:hover { transform: translateY(-6px); box-shadow: 0 18px 38px -14px rgba(75,63,78,0.26); }
 
+.friend-card--special {
+  grid-column: span 2;
+  background: linear-gradient(135deg, #fffaf4 0%, #fff0f3 100%);
+  border: 2px dashed var(--rose);
+  transform: scale(1.02);
+  animation: special-card-pulse 3s ease-in-out infinite;
+}
+.friend-card--special:hover {
+  transform: translateY(-6px) scale(1.04);
+}
+@keyframes special-card-pulse {
+  0%, 100% { box-shadow: 0 16px 36px -12px rgba(232,118,155,0.3); }
+  50% { box-shadow: 0 16px 40px -6px rgba(232,118,155,0.5), 0 0 12px 4px rgba(232,118,155,0.25); }
+}
+
+
 .friend-card__icon { font-size: 30px; }
 .friend-card__label { font-size: 14px; font-weight: 600; color: var(--ink-soft); }
 .friend-card__status {
@@ -809,6 +825,10 @@ section {
   background: var(--blush-soft);
 }
 .polaroid--final { width: 200px; margin: 0 auto 18px; }
+.polaroid--video {
+  width: 260px;
+  padding: 10px 10px 18px;
+}
 
 .modal__name {
   font-size: 26px; color: var(--rose-deep); margin-bottom: 10px;

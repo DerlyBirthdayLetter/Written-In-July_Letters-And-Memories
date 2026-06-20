@@ -200,12 +200,29 @@ With love and warm wishes,
       message:      '"Selamat ulang tahun, Derly! Selamat menyambut babak baru kehidupan. Seiring berkurangnya angka waktu kita di dunia, semoga setiap langkah ke depan membawa evolusi diri yang luar biasa. Aku berdoa agar kamu selalu diberi kesehatan yang prima, kebahagiaan, serta pundak yang kokoh dan hati yang tangguh untuk melewati setiap plot twist kehidupan yang ada. Oh iya, kalau selama ini aku ada salah, maafin ya. Nikmati harimu!"',
     },
     {
-      id:           14,
+      id:           15,
       name:         'Violaaa',
       photo:        'assets/images/friends/friend15.jpg',
       togetherPhoto: null,
       music:        'assets/music/friends/friend15.mp3',
       message:      'Happy birthday to someone who feels like home. Sixteen years of you in this world has made it so much better — I can\'t wait to see what this year brings you.',
+    },
+    {
+      id:           16,
+      name:         'CITRAA',
+      photo:        'assets/images/friends/friend16.jpg',
+      togetherPhoto: null,
+      music:        'assets/music/friends/friend16.mp3',
+      message:      'Happy birthday to someone who feels like home. Sixteen years of you in this world has made it so much better — I can\'t wait to see what this year brings you.',
+    },
+    {
+      id:           17,
+      name:         'Almira Azka Nurainii',
+      photo:        'assets/images/friends/friend17.jpg',
+      togetherPhoto: null,
+      video:        'assets/videos/friend17.mp4',
+      music:        'assets/music/friends/friend17.mp3',
+      message:      'Happy Sweet 16th Birthday, Derly! 💝 Kamu sangat spesial bagi kita semua. Ini adalah persembahan video, foto, dan lagu spesial khusus untukmu. Semoga harimu dipenuhi kebahagiaan dan semua impianmu terwujud!',
     },
   ],
 
@@ -489,6 +506,11 @@ function applyConfigToDOM() {
   nameEls.forEach((el) => { el.textContent = CONFIG.person.name; });
   if (heroName)  heroName.innerHTML = CONFIG.person.name.replace(' ', '&nbsp;');
   if (datesEl)   datesEl.textContent = `${CONFIG.person.born} • ${CONFIG.person.birthday}`;
+
+  const progressTotalEl = $('#progress-total');
+  if (progressTotalEl) {
+    progressTotalEl.textContent = String(CONFIG.friends.length);
+  }
 }
 
 /* ================================================================
@@ -763,11 +785,11 @@ function renderFriendCards() {
   CONFIG.friends.forEach((friend, index) => {
     const isOpen = state.openedFriends.has(index);
     const card   = document.createElement('button');
-    card.className        = `friend-card${isOpen ? ' is-opened' : ''}`;
+    card.className        = `friend-card${isOpen ? ' is-opened' : ''}${index === 16 ? ' friend-card--special' : ''}`;
     card.dataset.index    = String(index);
     card.innerHTML        = `
-      <span class="friend-card__icon">${isOpen ? '💙' : '🔒'}</span>
-      <span class="friend-card__label">${isOpen ? friend.name : `Secret Letter #${index + 1}`}</span>
+      <span class="friend-card__icon">${isOpen ? (index === 16 ? '💝' : '💙') : '🔒'}</span>
+      <span class="friend-card__label">${isOpen ? friend.name : (index === 16 ? `Special Letter Number ${index + 1}` : `Secret Letter #${index + 1}`)}</span>
       <span class="friend-card__status">${isOpen ? 'Opened' : 'Locked'}</span>
     `;
     card.addEventListener('click', () => openFriendModal(index));
@@ -779,7 +801,7 @@ function updateFriendCard(index) {
   const card = friendsGrid.querySelector(`[data-index="${index}"]`);
   if (!card) return;
   card.classList.add('is-opened');
-  card.querySelector('.friend-card__icon').textContent   = '💙';
+  card.querySelector('.friend-card__icon').textContent   = index === 16 ? '💝' : '💙';
   card.querySelector('.friend-card__label').textContent  = CONFIG.friends[index].name;
   card.querySelector('.friend-card__status').textContent = 'Opened';
 }
@@ -891,6 +913,24 @@ function openFriendModal(index) {
     typewrite(modalFriendText, friend.message);
     markFriendOpened(index);
 
+    const modalVideoWrap = $('#modal-video-wrap');
+    const modalFriendVideo = $('#modal-friend-video');
+    if (friend.video) {
+      modalVideoWrap.hidden = false;
+      modalFriendVideo.src = friend.video;
+      modalFriendVideo.load();
+      modalFriendVideo.onplay = () => {
+        const audio = getCurrentAudio();
+        if (audio && !audio.paused) {
+          audio.pause();
+          musicPlayPause.textContent = '▶';
+        }
+      };
+    } else {
+      modalVideoWrap.hidden = true;
+      modalFriendVideo.src = '';
+    }
+
     // Pasang lightbox pada foto yang baru dimuat ke dalam modal
     attachFriendModalPhotoTriggers();
   }, 1300));
@@ -903,6 +943,14 @@ function closeFriendModal() {
   friendModal.setAttribute('aria-hidden', 'true');
   document.body.classList.remove('modal-open');
   resetFriendModalVisuals();
+
+  const modalFriendVideo = $('#modal-friend-video');
+  if (modalFriendVideo) {
+    modalFriendVideo.pause();
+    modalFriendVideo.src = '';
+    modalFriendVideo.onplay = null;
+  }
+
   // Reset lbAttached agar bisa dipasang ulang saat modal dibuka berikutnya
   if (modalFriendPhoto)   delete modalFriendPhoto.dataset.lbAttached;
   if (modalTogetherPhoto) delete modalTogetherPhoto.dataset.lbAttached;

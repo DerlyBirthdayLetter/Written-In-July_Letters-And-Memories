@@ -107,7 +107,7 @@
 
       <div class="progress-tracker">
         <div class="progress-tracker__seal">💙</div>
-        <p class="progress-tracker__text"><span id="progress-count">0</span> / 20 Memories Opened</p>
+        <p class="progress-tracker__text"><span id="progress-count">0</span> / <span id="progress-total">20</span> Memories Opened</p>
         <div class="progress-tracker__bar"><div id="progress-bar-fill" class="progress-tracker__bar-fill"></div></div>
       </div>
 
@@ -184,6 +184,9 @@
           </div>
           <div class="polaroid polaroid--together" id="modal-together-wrap" hidden>
             <img id="modal-together-photo" src="" alt="" />
+          </div>
+          <div class="polaroid polaroid--video" id="modal-video-wrap" hidden>
+            <video id="modal-friend-video" controls playsinline style="width: 100%; border-radius: 3px; display: block; background: #000; aspect-ratio: 16/9; object-fit: contain;"></video>
           </div>
         </div>
         <h3 id="modal-friend-name" class="modal__name"></h3>
