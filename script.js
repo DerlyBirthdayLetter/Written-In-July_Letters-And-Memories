@@ -233,6 +233,8 @@ Maaf kalau selama kita dulu bersama, aku pernah banyak membuat kesalahan. Maaf u
 
 Aku sadar bahwa selama satu tahun terakhir, aku melakukan banyak hal yang mungkin meninggalkan kesan buruk bagimu. Semakin lama aku melihat ke belakang, semakin banyak hal yang aku sadari seharusnya tidak terjadi. Ada banyak momen yang kalau bisa diulang, mungkin akan aku lakukan dengan cara yang berbeda.
 
+oiya sekalian aku juga mau minta maaf banget soal ucapanku waktu itu, yang sempat bilang kalau kamu bakal ngejar aku balik. sumpah, setelah aku pikir-pikir lagi, itu nggak etis dan nggak pantas banget buat diucapin. aku sadar omongan itu egois dan mungkin bikin kamu risih atau tersinggung. aku bener-bener nyesel udah ngomong kayak gitu, maaf yaa...
+
 Aku tidak menulis ini untuk mencari pembenaran atau meminta semuanya dilupakan begitu saja sihhh, tapi aku hanya ingin mengakui bahwa aku memang punya kesalahan, dan aku benar-benar minta maaf untuk itu serius deh.
 
 Kalau boleh jujur, ada satu hal tentangmu yang selalu aku ingat.
@@ -246,6 +248,8 @@ Dulu aku sering merasa kesal karena itu.
 Tapi semakin lama aku sadar kalau mungkin itu memang bagian dari dirimu. Kamu bukan orang yang mudah mengikuti apa kata orang lain hanya karena mereka memintanya. Kamu punya cara berpikir dan pendirianmu sendiri.
 
 Mescipun kadang membuat orang lain pusing (aku contohnya), aku rasa itu juga salah satu hal yang membuatmu menjadi dirimu sendiri.
+
+ada satu lagu yang entah kenapa selalu bikin aku inget kalimat, 'mau disuruh memilih berapa kali pun, aku akan tetep pilih kamu.' lucu yaa, tapi sekarang kalimat itu udah berubah makna banget buat aku. maksudnya tuh, aku bersyukur banget pernah milih kamu di masa lalu, dan aku sama sekali nggak nyesel sama semua waktu yang udah pernah kita habisin bareng. tapi untuk sekarang dan ke depannya, pilihan terbaik yang bisa aku ambil ya melepaskan kamu, dan ngebiarin kamu bahagia meskipun tanpa ada aku lagi di dalamnya.
 
 Aku juga tidak tahu bagaimana kamu memandangku sekarang sihh sejujurnya.
 
@@ -297,7 +301,8 @@ Jaga dirimu baik-baik.
 
 Dan semoga kamu selalu menemukan alasan untuk tersenyum.
 
--MAMASS RADITTHEOKKK`,
+pamit ya,
+-mamass radittheokkk`,
   },
 
   /* ----------------------------------------------------------
