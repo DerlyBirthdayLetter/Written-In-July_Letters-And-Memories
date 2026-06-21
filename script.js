@@ -234,8 +234,7 @@ With love and warm wishes,
     photo:   'assets/images/final-photo.jpg',
     music:   'assets/music/final-letter.mp3',
     message: `Hai deyyikk,
-    Hai deyyikk,
-Kalau kamu sudah sampai di bagian ini, berarti kamu sudah membuka semua surat, membaca semua ucapan, dan menemukan surat terakhir yang sengaja aku simpan untuk paling akhir.
+    Kalau kamu sudah sampai di bagian ini, berarti kamu sudah membuka semua surat, membaca semua ucapan, dan menemukan surat terakhir yang sengaja aku simpan untuk paling akhir.
 
 Jujur sajaa dehh, bagian ini adalah bagian yang paling sulit untuk aku tulis sebenernya ahehehe bukan karena gamau mengucapkan apapun tapi tapi kayanya kebanyakan yang mau di ucapin...
 
