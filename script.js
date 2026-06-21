@@ -267,7 +267,7 @@ Tapi semakin lama aku sadar kalau mungkin itu memang bagian dari dirimu.. Kamu b
 
 Meskipun kadang membuat orang lain pusing (aku contohnya), aku rasa itu juga salah satu hal yang membuatmu menjadi dirimu sendiri..
 
-aku bersyukur banget pernah milih kamu di masa lalu, dan aku sama sekali nggak nyesel sama semua waktu yang udah pernah kita habisin bareng. tapi untuk sekarang dan ke depannya, pilihan terbaik yang bisa aku ambil ya melepaskan kamu, dan ngebiarin kamu bahagia meskipun tanpa ada aku lagi di dalamnya..
+bagi aku "love is a gift and a scar" aku bersyukur banget pernah milih kamu di masa lalu, dan aku sama sekali nggak nyesel sama semua waktu yang udah pernah kita habisin bareng. tapi untuk sekarang dan ke depannya, pilihan terbaik yang bisa aku ambil ya melepaskan kamu, dan ngebiarin kamu bahagia meskipun tanpa ada aku lagi di dalamnya..
 
 Aku juga tidak tahu bagaimana kamu memandangku sekarang sihh sejujurnya..
 
