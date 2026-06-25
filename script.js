@@ -248,7 +248,7 @@ Yang pertama tentu saja tidak lain dan tidak bukan adalah maaf..
 
 Maaf kalau selama kita dulu bersama, aku pernah banyak membuat kesalahan.. Maaf untuk perkataan yang mungkin menyakitkan, sikap yang mungkin mengecewakan, keputusan yang mungkin membuatmu kesal, dan semua hal yang seharusnya bisa aku lakukan dengan lebih baik..
 
-Aku sadar bahwa selama satu tahun terakhir, aku melakukan banyak hal yang mungkin meninggalkan kesan buruk bagimu.. Semakin lama aku melihat ke belakang, semakin banyak hal yang aku sadari seharusnya tidak terjadi.. There is a banyak momen yang kalau bisa diulang, mungkin akan aku lakukan dengan cara yang berbeda..
+Aku sadar bahwa selama satu tahun terakhir, aku melakukan banyak hal yang mungkin meninggalkan kesan buruk bagimu.. Semakin lama aku melihat ke belakang, semakin banyak hal yang aku sadari seharusnya tidak terjadi.. There is a lot of moment yang kalau bisa diulang, mungkin akan aku lakukan dengan cara yang berbeda..
 
 oiya sekalian aku juga mau minta maaf banget soal ucapanku waktu itu, yang sempat bilang kalau kamu bakal ngejar aku balik. sumpah, setelah aku pikir-pikir lagi, itu nggak etis dan nggak pantas banget buat diucapin... aku sadar omongan itu egois dan mungkin bikin kamu risih atau tersinggung... aku bener-bener nyesel udah ngomong kayak gitu, maaf yaa...
 
@@ -278,7 +278,7 @@ Mungkin sudah tidak peduli.
 
 Atau mungkin aku hanya seseorang dari masa lalu yang sesekali teringat ketika tidak sengaja muncul di hidupmuuu...
 
-Dan jujur saja, walaupun kemarin kamu sudah sempat meminta maaf terkait emosimu yang sempat nggak terkontrol, sampai sekarang sebenarnya masih banyak hal yang membuatku bertanya-tanya di dalam hati. Ya... meskipun aku tahu semua pertanyaan itu udah nggak penting lagi untuk dibahas sekarang karena jalan kita juga sudah berbeda. Tapi kalau boleh jujur, satu-satunya hal yang paling mengganjal di pikiranku cuman satu: kenapa kamu bisa bersikap begitu ke aku doang?
+Dan jujur saja, walaupun kemarin kamu sudah sempat meminta maaf terkait emosimu yang sempat nggak terkontrol, sampai sekarang sebenarnya masih banyak hal yang membuatku bertanya-tanya di dalam hati. Ya... meskipun aku tahu semua pertanyaan itu udah nggak penting lagi untuk dibahas sekarang karena jalan kita juga sudah berbeda. Tapi kalau boleh jujur, satu-satunya hal yang paling mengganjal di pikiranku cuman satu sih.. kenapa kamu bisa bersikap begitu ke aku doang?
 
 Aku sempat berpikir, apa karena kita nggak seumuran atau bagaimana? Soalnya aku melihat kamu bisa merespon dengan sangat baik ke teman-teman seumuranmu, bahkan bisa seru-seruan dan bermain bareng sama mereka. Tapi ke aku? Jangankan merespon dengan baik, terkadang kamu nggak merespon sama sekali.
 
@@ -925,6 +925,8 @@ function openFriendModal(index) {
     if (friend.video) {
       modalVideoWrap.hidden = false;
       modalFriendVideo.src = friend.video;
+      modalFriendVideo.volume = state.volume;
+      modalFriendVideo.muted = state.isMuted;
       modalFriendVideo.load();
       modalFriendVideo.onplay = () => {
         const audio = getCurrentAudio();
@@ -1367,6 +1369,11 @@ function setupMusicPlayerUI() {
     if (audio.paused) {
       audio.play().catch(() => {});
       musicPlayPause.textContent = '⏸';
+
+      const modalFriendVideo = $('#modal-friend-video');
+      if (modalFriendVideo && !modalFriendVideo.paused) {
+        modalFriendVideo.pause();
+      }
     } else {
       audio.pause();
       musicPlayPause.textContent = '▶';
@@ -1376,6 +1383,12 @@ function setupMusicPlayerUI() {
   musicMuteBtn.addEventListener('click', () => {
     state.isMuted = !state.isMuted;
     [audioMain, audioFriend, audioFinal, audioSurprise].forEach((a) => { a.muted = state.isMuted; });
+    
+    const modalFriendVideo = $('#modal-friend-video');
+    if (modalFriendVideo) {
+      modalFriendVideo.muted = state.isMuted;
+    }
+    
     musicMuteBtn.textContent = state.isMuted ? '🔈' : '🔊';
   });
 
@@ -1383,6 +1396,11 @@ function setupMusicPlayerUI() {
     state.volume = parseFloat(e.target.value);
     const audio  = getCurrentAudio();
     if (audio) setVolumeImmediate(audio, state.volume);
+
+    const modalFriendVideo = $('#modal-friend-video');
+    if (modalFriendVideo) {
+      modalFriendVideo.volume = state.volume;
+    }
   });
 
   [audioMain, audioFriend, audioFinal, audioSurprise].forEach((audio) => {
