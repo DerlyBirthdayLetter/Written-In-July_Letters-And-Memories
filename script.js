@@ -248,7 +248,7 @@ Yang pertama tentu saja tidak lain dan tidak bukan adalah maaf..
 
 Maaf kalau selama kita dulu bersama, aku pernah banyak membuat kesalahan.. Maaf untuk perkataan yang mungkin menyakitkan, sikap yang mungkin mengecewakan, keputusan yang mungkin membuatmu kesal, dan semua hal yang seharusnya bisa aku lakukan dengan lebih baik..
 
-Aku sadar bahwa selama satu tahun terakhir, aku melakukan banyak hal yang mungkin meninggalkan kesan buruk bagimu.. Semakin lama aku melihat ke belakang, semakin banyak hal yang aku sadari seharusnya tidak terjadi.. There is a lot of moment yang kalau bisa diulang, mungkin akan aku lakukan dengan cara yang berbeda..
+Aku sadar bahwa selama satu tahun terakhir, aku melakukan banyak hal yang mungkin meninggalkan kesan buruk bagimu.. Semakin lama aku melihat ke belakang, semakin banyak hal yang aku sadari seharusnya tidak terjadi.. Ada banyak momen yang kalau bisa diulang, mungkin akan aku lakukan dengan cara yang berbeda..
 
 oiya sekalian aku juga mau minta maaf banget soal ucapanku waktu itu, yang sempat bilang kalau kamu bakal ngejar aku balik. sumpah, setelah aku pikir-pikir lagi, itu nggak etis dan nggak pantas banget buat diucapin... aku sadar omongan itu egois dan mungkin bikin kamu risih atau tersinggung... aku bener-bener nyesel udah ngomong kayak gitu, maaf yaa...
 
@@ -266,7 +266,7 @@ Tapi semakin lama aku sadar kalau mungkin itu memang bagian dari dirimu.. Kamu b
 
 Meskipun kadang membuat orang lain pusing (aku contohnya), aku rasa itu juga salah satu hal yang membuatmu menjadi dirimu sendiri..
 
-bagi aku "love is a gift and a scar" aku bersyukur banget pernah milih kamu di masa lalu, dan aku sama sekali nggak nyesel sama semua waktu yang udah pernah kita habisin bareng. tapi untuk sekarang dan ke depannya, pilihan terbaik yang bisa aku ambil ya melepaskan kamu, dan ngebiarin kamu bahagia meskipun tanpa ada aku lagi di dalamnya..
+Bagi aku, love is a gift and a scar. aku bersyukur banget pernah milih kamu di masa lalu, dan aku sama sekali nggak nyesel sama semua waktu yang udah pernah kita habisin bareng. tapi untuk sekarang dan ke depannya, pilihan terbaik yang bisa aku ambil ya melepaskan kamu, dan ngebiarin kamu bahagia meskipun tanpa ada aku lagi di dalamnya..
 
 Aku juga tidak tahu bagaimana kamu memandangku sekarang sihh sejujurnya..
 
@@ -278,11 +278,11 @@ Mungkin sudah tidak peduli.
 
 Atau mungkin aku hanya seseorang dari masa lalu yang sesekali teringat ketika tidak sengaja muncul di hidupmuuu...
 
-Dan jujur saja, walaupun kemarin kamu sudah sempat meminta maaf terkait emosimu yang sempat nggak terkontrol, sampai sekarang sebenarnya masih banyak hal yang membuatku bertanya-tanya di dalam hati. Ya... meskipun aku tahu semua pertanyaan itu udah nggak penting lagi untuk dibahas sekarang karena jalan kita juga sudah berbeda. Tapi kalau boleh jujur, satu-satunya hal yang paling mengganjal di pikiranku cuman satu sih.. kenapa kamu bisa bersikap begitu ke aku doang?
+Dan jujur saja, walaupun kemarin kamu sudah sempat meminta maaf terkait emosimu yang sempat nggak terkontrol, sampai sekarang sebenarnya masih banyak hal yang membuatku bertanya-tanya di dalam hati. Ya... meskipun aku tahu semua pertanyaan itu udah nggak penting lagi untuk dibahas sekarang karena jalan kita juga sudah berbeda. Tapi kalau boleh jujur, satu-satunya hal yang paling mengganjal di pikiranku cuman satu: kenapa kamu bisa bersikap begitu ke aku doang?
 
 Aku sempat berpikir, apa karena kita nggak seumuran atau bagaimana? Soalnya aku melihat kamu bisa merespon dengan sangat baik ke teman-teman seumuranmu, bahkan bisa seru-seruan dan bermain bareng sama mereka. Tapi ke aku? Jangankan merespon dengan baik, terkadang kamu nggak merespon sama sekali.
 
-Sebenarnya, alasan aku kemarin-kemarin ngajak kamu main itu karena mumpung waktu aku masih senggang nanti pas kuliah, der. Jadi seenggaknya aku pengen bisa luangin waktu sama kamu lebih sering sebelum aku menginjak jenjang kuliah yang jadwalnya pasti padet banget. Tapi ya sudahlah, semuanya juga sudah terlewat sekarang. Aku juga sempat kaget banget setelah tahu kalau kamu membenci aku sampai sejauh itu. Tapi ya... setelah aku pikir-pikir lagi, aku mulai mengerti sekarang. Kalau memang kamu membenci aku, aku menerima itu. Setidaknya, semua ego dan konflik di antara kita sekarang benar-benar telah usai.
+Sebenarnya, alasan aku kemarin-kemarin ngajak kamu mabar atau main itu karena aku udah nggak punya teman main lagi sih, tadinya tuh begitu... Makanya aku kepikiran buat ngajak kamu. Tapi ya sudahlah, semuanya juga sudah terlewat sekarang. Aku juga sempat kaget banget setelah tahu kalau kamu membenci aku sampai sejauh itu. Tapi ya... setelah aku pikir-pikir lagi, aku mulai mengerti sekarang. Kalau memang kamu membenci aku, aku menerima itu. Setidaknya, semua ego dan konflik di antara kita sekarang benar-benar telah usai.
 
 Aku tidak menulis ini untuk memintamu menjawabnya kok, deyy. Aku hanya ingin jujur dengan apa yang sempat mengganjal di kepalaku, sebelum aku benar-benar melangkah pergi.
 
@@ -290,13 +290,13 @@ Karena seperti yang aku bilang tadi, aku tahu aku sudah tidak punya hak lagi unt
 
 Jadi, lewat surat ini, aku memutuskan untuk berjalan mundur.. Aku memilih untuk melupakan ego, melupakan harapan-harapan lama kita, dan pelan-pelan meninggalkan tempatku di hidupmu. Aku pergi bukan karena benci atau tidak peduli lagi, tapi karena aku menghargai ketenanganmu. Sungguh, kali ini aku tidak akan memaksa atau mengusik hidupmu lagi..
 
-Jujur, yah... aku menulis bagian ini sambil sedikit sedih sih. Mungkin kalau kamu baca, kamu bisa billing atau mikir aku dramatis, alay, dan sebagainya, ahehehe. *But anyway, come on... people come and go*, kan? Aku tahu itu hal yang wajar dalam hidup, dan mungkin sekarang memang giliran kita yang harus seperti itu.
+Jujur, yah... aku menulis bagian ini sambil sedikit sedih sih. Mungkin kalau kamu baca, kamu bisa bilang atau mikir aku dramatis, alay, dan sebagainya, ahehehe. But anyway, come on... people come and go, kan? Aku tahu itu hal yang wajar dalam hidup, dan mungkin sekarang memang giliran kita yang harus seperti itu.
 
-Tapi, meskipun jalan kita sekarang sudah berbeda dan aku memilih untuk melangkah pergi, satu hal yang tidak akan pernah berubah aku tetap ingin yang terbaik untukmu..
+Tapi, meskipun jalan kita sekarang sudah berbeda dan aku memilih untuk melangkah pergi, satu hal yang tidak akan pernah berubah: aku tetap ingin yang terbaik untukmu..
 
 Di umur yang ke-16 ini, kamu harus tahu kalau kamu itu kuat. Kamu sudah melewati banyak hal hebat sampai bisa ada di titik ini. Jadi, tolong jangan pernah ragu sama kemampuan dirimu sendiri, ya? Di depan sana pasti ada banyak tantangan baru, tapi aku yakin banget kamu bisa lewatin itu semua dengan caramu sendiri yang keren nan crazy..
 
-Semangat terus buat sekolahnya, buat semua impian yang mau kamu kejar, dan buat hari-hari yang bakal kamu jalanin ke depan. Kamu punya potensi besar, jadi jangan biarin hal-hal kecil atau masa lalu bikin kamu insecure atau patah semangat. Tunjukin kalau kamu bisa jadi versi terbaik dari dirimu!
+Semangat terus buat sekolahnya, buat Test Globy yang mau kamu hadapi, dan juga semangat besar buat kamu yang sekarang jadi perwakilan MUN! Itu keren banget, beneran deh. Kamu punya potensi besar, jadi jangan biarin hal-hal kecil atau masa lalu bikin kamu insecure atau patah semangat. Tunjukin kalau kamu bisa jadi versi terbaik dari dirimu dan bisa bersinar di sana!
 
 Aku berharap kamu berhasil mencapai impian-impianmu.
 
