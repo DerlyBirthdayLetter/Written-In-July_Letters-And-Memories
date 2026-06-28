@@ -251,7 +251,7 @@ Maaf kalau selama kita dulu bersama, aku pernah banyak membuat kesalahan.. Maaf 
 
 Aku sadar bahwa selama satu tahun terakhir, aku melakukan banyak hal yang mungkin meninggalkan kesan buruk bagimu.. Semakin lama aku melihat ke belakang, semakin banyak hal yang aku sadari seharusnya tidak terjadi.. Ada banyak momen yang kalau bisa diulang, mungkin akan aku lakukan dengan cara yang berbeda..
 
-oiya sekalian aku juga mau minta maaf banget soal ucapanku waktu itu, yang sempat bilang kalau kamu bakal ngejar aku balik. sumpah, setelah aku pikir-pikir lagi, itu nggak etis dan nggak pantas banget buat diucapin... aku sadar omongan itu egois dan mungkin bikin kamu risih atau tersinggung... aku bener-bener nyesel udah ngomong kayak gitu, maaf yaa...
+oiya sekalian aku juga mau minta maaf banget soal ucapanku waktu itu, yang sempat billing kalau kamu bakal ngejar aku balik. sumpah, setelah aku pikir-pikir lagi, itu nggak etis dan nggak pantas banget buat diucapin... aku sadar omongan itu egois dan mungkin bikin kamu risih atau tersinggung... aku bener-bener nyesel udah ngomong kayak gitu, maaf yaa...
 
 Aku tidak menulis ini untuk mencari pembenaran atau meminta semuanya dilupakan begitu saja sihhh, tapi aku hanya ingin mengakui bahwa aku memang punya kesalahan aku bener bener salah, dan aku benar-benar minta maaf untuk itu serius deh..
 
@@ -267,7 +267,7 @@ Tapi semakin lama aku sadar kalau mungkin itu memang bagian dari dirimu.. Kamu b
 
 Meskipun kadang membuat orang lain pusing (aku contohnya), aku rasa itu juga salah satu hal yang membuatmu menjadi dirimu sendiri..
 
-Bagi aku, love is a gift and a scar. aku bersyukur banget pernah milih kamu di masa lalu, dan aku sama sekali nggak nyesel sama semua waktu yang udah pernah kita habisin bareng. tapi untuk sekarang dan ke depannya, pilihan terbaik yang bisa aku ambil ya melepaskan kamu, dan ngebiarin kamu bahagia meskipun tanpa ada aku lagi di dalamnya..
+Bagi aku, love is a gift and a scar. Aku bersyukur banget pernah milih kamu di masa lalu, dan aku sama sekali nggak nyesel sama semua waktu yang udah pernah kita habisin bareng. Tapi untuk sekarang dan ke depannya, pilihan terbaik yang bisa aku ambil ya aku tidak akan berusaha berkomunikasi lagi denganmu, dan ngebiarin kamu bahagia meskipun tanpa ada aku lagi di dalamnya..
 
 Aku juga tidak tahu bagaimana kamu memandangku sekarang sihh sejujurnya..
 
@@ -289,7 +289,7 @@ Aku tidak menulis ini untuk memintamu menjawabnya kok, deyy. Aku hanya ingin juj
 
 Karena seperti yang aku bilang tadi, aku tahu aku sudah tidak punya hak lagi untuk ada di hidupmu sihh deyy. Melihat semua yang sudah terjadi, aku sadar kalau memaksakan diri untuk tetap ada di dekatmu, atau bahkan meminta untuk tetap berteman, mungkin malah akan jadi beban buat kamu. Aku nggak mau egois lagi. Aku paham kalau setiap orang berhak menentukan siapa yang layak dipertahankan, dan mungkin peranku di hidupmu memang sudah selesai sampai di sini..
 
-Jadi, lewat surat ini, aku sadar sepertinya kita sudah tidak bisa berteman lagi. Aku memilih untuk melupakan ego, melupakan harapan-harapan lama kita, dan pelan-pelan meninggalkan tempatku di hidupmu. Aku pergi bukan karena benci atau tidak peduli lagi, tapi karena aku menghargai ketenanganmu. Sungguh, kali ini aku tidak akan memaksa atau mengusik hidupmu lagi..
+Jadi, lewat surat ini, aku sadar sepertinya kita sudah tidak bisa berteman lagi. Aku memilih untuk melupakan ego, melupakan harapan-harapan lama kita, dan pelan-pelan meninggalkan tempatku di hidupmu. Aku mengambil keputusan ini bukan karena benci atau tidak peduli lagi, tapi karena aku menghargai ketenanganmu. Sungguh, kali ini aku tidak akan memaksa, mengusik, atau mencari jalan untuk berkomunikasi lagi denganmu..
 
 Jujur, yah... aku menulis bagian ini sambil sedikit sedih sih. Mungkin kalau kamu baca, kamu bisa bilang atau mikir aku dramatis, alay, dan sebagainya, ahehehe. But anyway, come on... people come and go, kan? Aku tahu itu hal yang wajar dalam hidup, dan mungkin sekarang memang giliran kita yang harus seperti itu.
 
