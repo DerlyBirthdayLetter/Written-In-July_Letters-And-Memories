@@ -157,7 +157,8 @@ With love and warm wishes,
       photo:        'assets/images/friends/friend9.jpg',
       togetherPhoto: null,
       music:        'assets/music/friends/friend9.mp3',
-      message:      'Happy birthday derly my friend, semoga kamu tambah sehat, tambah pinter, tambah cerdas, ga ngelawan ortu, jaga kesehatan juga jangan main wuwa terus menerus, pokoknya tambah baik tinggalkan yang buruk buruk yaa🥳            -azrilgantengpacarmikasadanalya😜',
+      message:      'Happy birthday derly my friend, semoga kamu tambah sehat, tambah pinter, tambah cerdas, ga ngelawan ortu, jaga kesehatan juga jangan main wuwa terus menerus, pokoknya tambah baik tinggalkan yang buruk buruk yaa🥳 -azrilgantengpacarmikasadanalya😜',
+      
     },
     {
       id:           10,
@@ -288,7 +289,7 @@ Aku tidak menulis ini untuk memintamu menjawabnya kok, deyy. Aku hanya ingin juj
 
 Karena seperti yang aku bilang tadi, aku tahu aku sudah tidak punya hak lagi untuk ada di hidupmu sihh deyy. Melihat semua yang sudah terjadi, aku sadar kalau memaksakan diri untuk tetap ada di dekatmu, atau bahkan meminta untuk tetap berteman, mungkin malah akan jadi beban buat kamu. Aku nggak mau egois lagi. Aku paham kalau setiap orang berhak menentukan siapa yang layak dipertahankan, dan mungkin peranku di hidupmu memang sudah selesai sampai di sini..
 
-Jadi, lewat surat ini, aku memutuskan untuk berjalan mundur.. Aku memilih untuk melupakan ego, melupakan harapan-harapan lama kita, dan pelan-pelan meninggalkan tempatku di hidupmu. Aku pergi bukan karena benci atau tidak peduli lagi, tapi karena aku menghargai ketenanganmu. Sungguh, kali ini aku tidak akan memaksa atau mengusik hidupmu lagi..
+Jadi, lewat surat ini, aku sadar sepertinya kita sudah tidak bisa berteman lagi. Aku memilih untuk melupakan ego, melupakan harapan-harapan lama kita, dan pelan-pelan meninggalkan tempatku di hidupmu. Aku pergi bukan karena benci atau tidak peduli lagi, tapi karena aku menghargai ketenanganmu. Sungguh, kali ini aku tidak akan memaksa atau mengusik hidupmu lagi..
 
 Jujur, yah... aku menulis bagian ini sambil sedikit sedih sih. Mungkin kalau kamu baca, kamu bisa bilang atau mikir aku dramatis, alay, dan sebagainya, ahehehe. But anyway, come on... people come and go, kan? Aku tahu itu hal yang wajar dalam hidup, dan mungkin sekarang memang giliran kita yang harus seperti itu.
 
@@ -325,7 +326,6 @@ Semoga tahun ini menjadi awal dari banyak pencapaian luar biasa dan kebahagiaan 
 Jaga dirimu baik-baik.
 
 Dan semoga kamu selalu menemukan alasan untuk tersenyum.
-
 -mamass radittheokkk`,
   },
 
@@ -345,7 +345,7 @@ Dan semoga kamu selalu menemukan alasan untuk tersenyum.
     delayMs:     2000,                          // jeda (ms) sebelum tombol muncul setelah final letter ditutup
     triggerDelayMs: 3000,                       // jeda antara intro selesai diketik & jumpscare muncul
     introText:   "deyy ada satu hal yang mau aku sampaikan",
-    captionText: 'ada satu lagu yang entah kenapa selalu bikin aku inget kalimat, "mau disuruh memilih berapa kali pun, aku akan tetep pilih kamu." lucu yaa, tapi sekarang kalimat itu udah berubah makna banget buat aku. maksudnya tuh, aku bersyukur banget pernah milih kamu di masa lalu, dan aku sama sekali nggak nyesel sama semua waktu yang udah pernah kita habisin bareng. tapi untuk sekarang dan ke depannya, pilihan terbaik yang bisa aku ambil ya melepaskan kamu, dan ngebiarin kamu bahagia meskipun tanpa ada aku lagi di dalamnya.',
+    captionText: 'Menatapmu dari jauh sekarang rasanya seperti melihat buku cerita yang sudah tertutup. Kita pernah menjadi bab paling indah, sebelum akhirnya waktu membuang kita ke halaman yang berbeda.',
     image:       'assets/images/surprise.gif',  // ganti dengan gif/foto kocak kamu
     music:       'assets/music/surprise.mp3',   // ganti dengan lagu kocak/troll kamu
   },
