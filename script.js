@@ -319,7 +319,7 @@ Semoga tahun ini menjadi awal dari banyak pencapaian luar biasa dan kebahagiaan 
 
 Jaga dirimu baik-baik.
 
-Dan semoga kamu selalu menemukan alasan untuk tersenyum.
+Dan semoga kamu selalu menemukan alasan untuk tersenyum.  
 
 -mamass radittheokkk`,
   },
