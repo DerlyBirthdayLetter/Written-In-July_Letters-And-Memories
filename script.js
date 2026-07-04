@@ -322,8 +322,6 @@ Jaga dirimu baik-baik...
 
 Dan semoga kamu selalu menemukan alasan untuk tersenyum ya deyy..
 
--mamass radittheokkk
-
 -mamass radittheokkk`,
   },
 
