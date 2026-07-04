@@ -174,7 +174,7 @@ With love and warm wishes,
       photo:        'assets/images/friends/friend11.jpg',
       togetherPhoto: null,
       music:        'assets/music/friends/friend11.mp3',
-      message:      'Happy birthday to someone who feels like home. Sixteen years of you in this world has made it so much better — I can\'t wait to see what this year brings you.',
+      message:      'OMAYGAY DERLI ULTAH TUDEYY, HAPPY BIRTHDAY IMUPPP, buat doa nya doa sendiri aja udah gede wlwlwl, semoga lu bisa imo der terus jangan pernah pelit pelit bagi parpum (PARPUM LU DOANG YG PLNG ENK JINK WANGINYA) HWHEHEH LOP YOU DER💜💜🫦🤤',
     },
     {
       id:           12,
@@ -206,7 +206,8 @@ With love and warm wishes,
       photo:        'assets/images/friends/friend15.jpg',
       togetherPhoto: null,
       music:        'assets/music/friends/friend15.mp3',
-      message:      'Happy birthday to someone who feels like home. Sixteen years of you in this world has made it so much better — I can\'t wait to see what this year brings you.',
+      message:      'Oke oke, pure no. 4 aja ya 😅 ga ditambahin lagi English:Happy Birthday! May your year be full of good health, big smiles, and small wins that turn into big ones. You’re a gem, never forget that Artinya:Selamat ulang tahun! Semoga tahunmu penuh dengan kesehatan, senyum lebar, dan kemenangan-kemenangan kecil yang berubah jadi besar. Kamu itu permata, jangan pernah lupa itu. hehe',
+
     },
     {
       id:           16,
@@ -235,91 +236,93 @@ With love and warm wishes,
     photo:   'assets/images/final-photo.jpg',
     music:   'assets/music/final-letter.mp3',
     message: `Hai deyyikk,
-   Kalau kamu sudah sampai di bagian ini, berarti kamu sudah membuka semua surat, membaca semua ucapan, dan menemukan surat terakhir yang sengaja aku simpan untuk paling akhir.
+   Kalau kamu sudah sampai di bagian ini der, berarti kamu sudah membuka semua surat, lalu setelah itu membaca semua ucapan, dan menemukan surat terakhir yang sengaja aku simpan untuk paling akhir..
 
-Jujur saja, bagian ini adalah bagian yang paling sulit untuk aku tulis ahehehe bukan karena gamau ngucap apapun tapi kayanya kebanyakan yang mau di ucapin...
+jujur saja sih der, bagian ini adalah bagian yang paling sulit untuk aku tulis, ahehehe bukan karena gamau ngucap apapun tapi kayanya kebanyakan yang mau di ucapin...
 
-Pertama-tama, selamat ulang tahun yang ke-16.
+Pertama-tama, selamat ulang tahun yang ke-16 Lakeisha!..
 
-Aku harap hari ini berjalan dengan baik untukmu. Aku harap kamu banyak tersenyum, banyak tertawa, dan merasakan betapa berartinya dirimu bagi orang-orang di sekitarmu. Enam belas tahun bukan waktu yang sebentar. Sudah banyak hal yang kamu lewati, banyak orang yang datang dan pergi, banyak kenangan yang tercipta, dan banyak pelajaran yang mungkin membentukmu menjadi dirimu yang sekarang.
+Aku harap hari ini berjalan dengan baik untuk kamu der.. Aku harap kamu banyak tersenyum, banyak tertawa, dan merasakan betapa berartinya dirimu bagi orang-orang di sekitarmu.. Enam belas tahun bukan waktu yang sebentar der.. Sudah banyak hal yang kamu lewati, banyak orang yang datang dan pergi, banyak kenangan yang tercipta, dan banyak pelajaran yang mungkin membentukmu menjadi dirimu yang sekarang..
 
-Di hari ulang tahunmu ini, ada beberapa hal yang ingin aku sampaikan.
+Di hari ulang tahunmu ini, ada beberapa hal yang ingin aku sampaikan der..
 
-Yang pertama tentu saja tidak lain dan tidak bukan adalah maaf.
+Yang pertama tentu saja tidak lain dan tidak bukan adalah maaf..
 
-Maaf kalau selama kita dulu bersama, aku pernah banyak membuat kesalahan. Maaf untuk perkataan yang mungkin menyakitkan, sikap yang mungkin mengecewakan, keputusan yang mungkin membuatmu kesal, dan semua hal yang seharusnya bisa aku lakukan dengan lebih baik.
+Maaf kalau selama kita dulu bersama, aku pernah banyak membuat kesalahan.. Maaf untuk perkataan yang mungkin menyakitkan, sikap yang mungkin mengecewakan, keputusan yang mungkin membuatmu kesal, dan semua hal yang seharusnya bisa aku lakukan dengan lebih baik..
 
-Aku sadar bahwa selama satu tahun terakhir, aku melakukan banyak hal yang mungkin meninggalkan kesan buruk bagimu. Semakin lama aku melihat ke belakang, semakin banyak hal yang aku sadari seharusnya tidak terjadi. Ada banyak momen yang kalau bisa diulang, mungkin akan aku lakukan dengan cara yang berbeda.
+Aku sadar bahwa selama satu tahun terakhir, aku melakukan banyak hal yang mungkin meninggalkan kesan buruk bagimu.. Semakin lama aku melihat ke belakang, semakin banyak hal yang aku sadari seharusnya tidak terjadi.. Ada banyak momen yang kalau bisa diulang, mungkin akan aku lakukan dengan cara yang berbeda..
 
-oiya sekalian aku juga mau minta maaf banget soal ucapanku waktu itu, yang sempat billing kalau kamu bakal ngejar aku balik. sumpah, setelah aku pikir-pikir lagi, itu nggak etis dan nggak pantas banget buat diucapin. aku sadar omongan itu egois dan mungkin bikin kamu risih atau tersinggung. aku bener-bener nyesel udah ngomong kayak gitu, maaf yaa...
+oiya sekalian aku juga mau minta maaf banget soal ucapanku waktu itu, yang sempat bilang kalau kamu bakal ngejar aku balik.. sumpah, setelah aku pikir-pikir lagi, itu nggak etis dan nggak pantas banget buat diucapin.. aku sadar omongan itu egois,bodoh dan mungkin bikin kamu risih atau tersinggung.. aku bener-bener nyesel udah ngomong kayak gitu, maafin aku der...
 
-Aku tidak menulis ini untuk mencari pembenaran atau meminta semuanya dilupakan begitu saja sihhh, tapi aku hanya ingin mengakui bahwa aku memang punya kesalahan, dan aku benar-benar minta maaf untuk itu serius deh.
+Aku tidak menulis ini untuk mencari pembenaran atau meminta semuanya dilupakan begitu saja sihh, tapi aku hanya ingin mengakui bahwa aku memang punya kesalahan, dan aku benar-benar minta maaf untuk itu serius deh..
 
-Kalau boleh jujur, ada satu hal tentangmu yang selalu aku ingat.
+Kalau boleh jujur, ada satu hal tentangmu yang selalu aku ingat..
 
-Kamu itu orang yang susah dibujuk.
+Kamu itu orang yang susah dibujuk..
 
-Kalau sudah punya pendapat, biasanya susah berubah. Kalau sudah yakin dengan sesuatu, kamu akan mempertahankannya. Dan kalau sudah marah atau kecewa, kadang butuh waktu yang cukup lama sampai semuanya benar-benar membaik lagi.
+Kalau sudah punya pendapat, biasanya susah berubah.. Kalau sudah yakin dengan sesuatu, kamu akan mempertahankannya.. Dan kalau sudah marah atau kecewa, kadang butuh waktu yang cukup lama sampai semuanya benar-benar membaik lagi..
 
-Dulu aku sering merasa kesal karena itu.
+Dulu aku sering merasa kesal karena itu..
 
-Tapi semakin lama aku sadar kalau mungkin itu memang bagian dari dirimu. Kamu bukan orang yang mudah mengikuti apa kata orang lain hanya karena mereka memintanya. Kamu punya cara berpikir dan pendirianmu sendiri.
+Tapi semakin lama aku sadar kalau mungkin itu memang bagian dari dirimu.. Kamu bukan orang yang mudah mengikuti apa kata orang lain hanya karena mereka memintanya.. Kamu punya cara berpikir dan pendirianmu sendiri..
 
-Mescipun kadang membuat orang lain pusing (aku contohnya), aku rasa itu juga salah satu hal yang membuatmu menjadi dirimu sendiri.
+Meskipun kadang membuat orang lain pusing (aku contohnya), aku rasa itu juga salah satu hal yang membuatmu menjadi dirimu sendiri..
 
-ada satu lagu yang entah kenapa selalu bikin aku inget kalimat, 'mau disuruh memilih berapa kali pun, aku akan tetep pilih kamu.' lucu yaa, tapi sekarang kalimat itu udah berubah makna banget buat aku. maksudnya tuh, aku bersyukur banget pernah milih kamu di masa lalu, dan aku sama sekali nggak nyesel sama semua waktu yang udah pernah kita habisin bareng. tapi untuk sekarang dan ke depannya, pilihan terbaik yang bisa aku ambil ya melepaskan kamu, dan ngebiarin kamu bahagia meskipun tanpa ada aku lagi di dalamnya.
+aku bersyukur banget pernah milih kamu di masa lalu, dan aku sama sekali nggak nyesel sama semua waktu yang udah pernah kita habisin bareng.. tapi untuk sekarang dan ke depannya, aku sadar kalau jalan terbaik yang harus kita ambil adalah berhenti bertukar kabar, dan membiarkan kamu bahagia meskipun kita sudah tidak bisa berkomunikasi lagi..
 
-Aku juga tidak tahu bagaimana kamu memandangku sekarang sihh sejujurnya.
+Aku juga tidak tahu bagaimana kamu memandangku sekarang sihh sejujurnya..
 
-Mungkin biasa saja.
+Mungkin biasa saja..
 
-Mungkin masih kesal.
+Mungkin masih kesal..
 
-Mungkin sudah tidak peduli.
+Mungkin sudah tidak peduli..
 
 Atau mungkin aku hanya seseorang dari masa lalu yang sesekali teringat ketika tidak sengaja muncul di hidupmuuu...
 
-Aku tahu kok, saking kesal atau bencinya kamu sama aku, kamu sampai bikin saluran voice Discord pribadi yang di-private biar nggak diganggu sama aku lagi. Jujur, awalnya aku sempat benci dan kesal waktu tahu kamu melakukan itu. Tapi setelah dipikir-pikir lagi, sekarang nggak ada gunanya juga aku ngomong begini atau protes, kan? Itu hak kamu.
+aku bahkan tahu kok saking bencinya kamu sama aku, kamu sampe bikin saluran voice discord pribadi yang di-private biar nggak diganggu sama aku lagi... jujur aku sempat benci banget pas tahu kamu ngelakuin itu.. tapi ya sudahlah, sekarang juga nggak ada gunanya lagi aku ngomong begini, toh semuanya udah lewat..
 
-Dan jujur saja, aku tahu aku sudah tidak punya hak lagi untuk ada di hidupmu sihh deyy.
+Dan jujur saja, aku tahu aku sudah tidak punya hak lagi untuk ada di hidupmu sihh deyy..
 
-Melihat semua yang sudah terjadi, aku sadar kalau memaksakan diri untuk tetap ada di dekatmu, atau bahkan meminta untuk tetap berteman, mungkin malah akan jadi beban buat kamu. Aku nggak mau egois lagi. Aku paham kalau setiap orang berhak menentukan siapa yang layak dipertahankan, dan mungkin peranku di hidupmu memang sudah selesai sampai di sini.
+Melihat semua yang sudah terjadi, aku sadar kalau memaksakan diri untuk tetap ada di dekatmu, atau bahkan meminta untuk tetap berteman, mungkin malah akan jadi beban buat kamu.. Aku nggak mau egois lagi.. Aku paham kalau setiap orang berhak menentukan siapa yang layak dipertahankan, dan mungkin peranku di hidupmu memang sudah selesai sampai di sini..
 
-Jadi, lewat surat ini, aku memutuskan untuk berjalan mundur. Aku memilih untuk melupakan ego, melupakan harapan-harapan lama kita, dan pelan-pelan meninggalkan tempatku di hidupmu. Aku pergi bukan karena benci atau tidak peduli lagi, tapi karena aku menghargai ketenanganmu. Sungguh, kali ini aku tidak akan memaksa atau mengusik hidupmu lagi.
+Jadi, lewat surat ini, aku menerima kalau kita memang harus asing.. Aku memilih untuk melupakan ego, melupakan harapan-harapan lama kita, dan pelan-pelan menghilang dari hidupmu.. Setelah ini, aku tidak akan lagi mencari cara untuk menghubungimu, memaksa masuk, atau mengusik hidupmu lewat cara apa pun.. Aku menghargai keputusanmu untuk memutus komunikasi kita..
 
-Tapi, meskipun jalan kita sekarang sudah berbeda dan aku memilih untuk melangkah pergi, satu hal yang tidak akan pernah berubah: aku tetap ingin yang terbaik untukmu.
+Tapi, meskipun jalan kita sekarang sudah berbeda dan kita tidak lagi saling bicara, satu hal yang tidak akan pernah berubah.. aku tetap ingin yang terbaik untukmu der..
 
-Di umur yang ke-16 ini, kamu harus tahu kalau kamu itu kuat. Kamu sudah melewati banyak hal hebat sampai bisa ada di titik ini. Jadi, tolong jangan pernah ragu sama kemampuan dirimu sendiri, ya? Di depan sana pasti ada banyak tantangan baru, tapi aku yakin banget kamu bisa lewatin itu semua dengan caramu sendiri yang keren.
+Di umur yang ke-16 ini, kamu harus tahu kalau kamu itu kuat! Kamu sudah melewati banyak hal hebat sampai bisa ada di titik ini.. Jadi, tolong jangan pernah ragu sama kemampuan dirimu sendiri, ya? Di depan sana pasti ada banyak tantangan baru, tapi aku yakin banget kamu bisa lewatin itu semua dengan caramu sendiri yang keren..
 
-Semangat terus buat sekolahnya, buat semua impian yang mau kamu kejar, dan buat hari-hari yang bakal kamu jalanin ke depan. Kamu punya potensi besar, jadi jangan biarin hal-hal kecil atau masa lalu bikin kamu insecure atau patah semangat. Tunjukin kalau kamu bisa jadi versi terbaik dari dirimu!
+Oiya, selamat juga ya karena kamu terpilih jadi perwakilan globy buat MUN! Sumpah itu keren banget dan aku bangga banget dengarnya. Aku tahu itu nggak gampang, tapi kamu emang punya potensi besar, jadi jangan biarin rasa minder atau masa lalu bikin kamu ragu.. Manfaatin kesempatan berharga ini dan tunjukin versi terbaik dari dirimu di sana! Semangat terus buat sekolahnya, buat semua impian yang mau kamu kejar, dan buat hari-hari yang bakal kamu jalanin ke depan..
 
-Aku berharap kamu berhasil mencapai impian-impianmu.
+Aku berharap kamu berhasil mencapai impian-impianmu..
 
-Aku berharap kamu bertemu orang-orang baru yang tulus menyayangimu dan bisa memperlakukanmu jauh lebih baik daripada aku dulu.
+Aku berharap kamu bertemu orang-orang baru yang tulus menyayangimu dan bisa memperlakukanmu jauh lebih baik daripada aku dulu..
 
-Aku berharap kamu selalu diberikan kesehatan, kebahagiaan, dan kekuatan ekstra saat menghadapi hari-hari yang sulit.
+Aku berharap kamu selalu diberikan kesehatan, kebahagiaan, dan kekuatan ekstra saat menghadapi hari-hari yang sulit..
 
-Aku berharap suatu hari nanti kamu bisa melihat kembali perjalanan hidupmu dan bangga pada semua hal yang sudah berhasil kamu lewati.
+Aku berharap suatu hari nanti kamu bisa melihat kembali perjalanan hidupmu dan bangga pada semua hal yang sudah berhasil kamu lewati..
 
-Dan mungkin, meskipun nanti kita sudah asing dan aku tidak lagi berada di dekatmu, aku akan tetap menjadi seseorang yang dari jauh ikut senang mendengar kabar kalau kamu baik-baik saja.
+Dan mungkin, meskipun nanti kita sudah benar-benar asing dan tidak lagi berkomunikasi, aku akan tetap menjadi seseorang yang dari jauh ikut senang mendengar kabar kalau kamu baik-baik saja..
 
-Melihatmu bahagia.
+Melihatmu bahagia..
 
-Melihatmu berhasil.
+Melihatmu berhasil..
 
-Melihatmu mencapai hal-hal yang dulu hanya menjadi impian.
+Melihatmu mencapai hal-hal yang dulu hanya menjadi impian..
 
-Bukan karena aku ingin kembali, tetapi karena aku memang ingin hal-hal baik terjadi padamu.
+Bukan karena aku ingin kembali, tetapi karena aku memang ingin hal-hal baik terjadi padamu..
 
-Terima kasih sudah menjadi bagian dari cerita yang pernah aku jalani. Terima kasih untuk semua kenangan, pelajaran, tawa, dan bahkan kesalahan yang membuatku belajar menjadi pribadi yang lebih baik.
+Terima kasih sudah menjadi bagian dari cerita yang pernah aku jalani. Terima kasih untuk semua kenangan, pelajaran, tawa, dan bahkan kesalahan yang membuatku belajar menjadi pribadi yang lebih baik..
 
-Sekali lagi, selamat ulang tahun yang ke-16, Derly.
+Sekali lagi, selamat ulang tahun yang ke-16, Lakeisha Derly Surayuda..
 
-Semoga tahun ini menjadi awal dari banyak pencapaian luar biasa dan kebahagiaan yang menunggumu di depan.
+Semoga tahun ini menjadi awal dari banyak pencapaian luar biasa dan kebahagiaan yang menunggumu di depan..
 
-Jaga dirimu baik-baik.
+Jaga dirimu baik-baik...
 
-Dan semoga kamu selalu menemukan alasan untuk tersenyum.  
+Dan semoga kamu selalu menemukan alasan untuk tersenyum ya deyy..
+
+-mamass radittheokkk
 
 -mamass radittheokkk`,
   },
