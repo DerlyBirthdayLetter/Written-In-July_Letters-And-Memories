@@ -166,7 +166,7 @@ With love and warm wishes,
       photo:        'assets/images/friends/friend10.jpg',
       togetherPhoto: null,
       music:        'assets/music/friends/friend10.mp3',
-      message:      'Happy birthday to someone who feels like home. Sixteen years of you in this world has made it so much better — I can\'t wait to see what this year brings you.',
+      message:      'Selamat berjuang, sukses 👏👏',
     },
     {
       id:           11,
@@ -236,6 +236,7 @@ With love and warm wishes,
     photo:   'assets/images/final-photo.jpg',
     music:   'assets/music/final-letter.mp3',
     message: `Hai deyyikk,
+
    Kalau kamu sudah sampai di bagian ini der, berarti kamu sudah membuka semua surat, lalu setelah itu membaca semua ucapan, dan menemukan surat terakhir yang sengaja aku simpan untuk paling akhir..
 
 jujur saja sih der, bagian ini adalah bagian yang paling sulit untuk aku tulis, ahehehe bukan karena gamau ngucap apapun tapi kayanya kebanyakan yang mau di ucapin...
@@ -280,7 +281,7 @@ Mungkin sudah tidak peduli..
 
 Atau mungkin aku hanya seseorang dari masa lalu yang sesekali teringat ketika tidak sengaja muncul di hidupmuuu...
 
-aku bahkan tahu kok saking bencinya kamu sama aku, kamu sampe bikin saluran voice discord pribadi yang di-private biar nggak diganggu sama aku lagi... jujur aku sempat benci banget pas tahu kamu ngelakuin itu.. tapi ya sudahlah, sekarang juga nggak ada gunanya lagi aku ngomong begini, toh semuanya udah lewat..
+aku bahkan tahu kok saking bencinya kamu sama aku, kamu sampe bikin saluran voice discord pribadi yang di-private biar nggak diganggu sama aku lagi... jujur aku sempat benci banget pas tahu kamu ngelakuin itu.. tapi ya sudahlah, sekarang juga nggak ada gunanya lagi aku ngomong begini, toh semuanya udah lewat.. Lagian sekarang kan posisiku udah digantiin sama Kiki buat nemenin kamu di sana. So, good luck with your new lover ya der, semoga cowok barumu yang sekarang jauh lebih asyik dan nggak bikin kamu repot-repot ganti status room jadi private lagi, ahehehe.
 
 Dan jujur saja, aku tahu aku sudah tidak punya hak lagi untuk ada di hidupmu sihh deyy..
 
@@ -314,7 +315,7 @@ Bukan karena aku ingin kembali, tetapi karena aku memang ingin hal-hal baik terj
 
 Terima kasih sudah menjadi bagian dari cerita yang pernah aku jalani. Terima kasih untuk semua kenangan, pelajaran, tawa, dan bahkan kesalahan yang membuatku belajar menjadi pribadi yang lebih baik..
 
-Sekali lagi, selamat ulang tahun yang ke-16, Lakeisha Derly Surayuda..
+Sekalan lagi, selamat ulang tahun yang ke-16, Lakeisha Derly Surayuda..
 
 Semoga tahun ini menjadi awal dari banyak pencapaian luar biasa dan kebahagiaan yang menunggumu di depan..
 
@@ -341,7 +342,7 @@ Dan semoga kamu selalu menemukan alasan untuk tersenyum ya deyy..
     delayMs:     2000,                          // jeda (ms) sebelum tombol muncul setelah final letter ditutup
     triggerDelayMs: 3000,                       // jeda antara intro selesai diketik & jumpscare muncul
     introText:   "deyy ada satu hal yang mau aku sampaikan",
-    captionText: 'Menatapmu dari jauh sekarang rasanya seperti melihat buku cerita yang sudah tertutup. Kita pernah menjadi bab paling indah, sebelum akhirnya waktu membuang kita ke halaman yang berbeda.',
+    captionText: 'menatapmu dari jauh sekarang rasanya seperti melihat buku cerita yang sudah tertutup rapat.. ,alur yang kemarin rasanya begitu rumit, ternyata bisa selesai begitu saja dan langsung berganti pemeran, sebelum akhirnya waktu membuang cerita ke halaman yang berbeda.. melihatmu sudah bahagia membuatku sadar kalau meninggalkanmu memang keputusan terbaik.. tidak ada lagi ego untuk meratapi hal yang sudah berlalu, biarlah kisah yang lama tenang terbuang dalam waktu..',
     image:       'assets/images/surprise.gif',  // ganti dengan gif/foto kocak kamu
     music:       'assets/music/surprise.mp3',   // ganti dengan lagu kocak/troll kamu
   },
