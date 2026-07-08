@@ -315,7 +315,7 @@ Bukan karena aku ingin kembali, tetapi karena aku memang ingin hal-hal baik terj
 
 Terima kasih sudah menjadi bagian dari cerita yang pernah aku jalani. Terima kasih untuk semua kenangan, pelajaran, tawa, dan bahkan kesalahan yang membuatku belajar menjadi pribadi yang lebih baik..
 
-Sekalan lagi, selamat ulang tahun yang ke-16, Lakeisha Derly Surayuda..
+Sekali lagi, selamat ulang tahun yang ke-16, Lakeisha Derly Surayuda..
 
 Semoga tahun ini menjadi awal dari banyak pencapaian luar biasa dan kebahagiaan yang menunggumu di depan..
 
