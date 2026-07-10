@@ -220,11 +220,11 @@ With love and warm wishes,
     {
       id:           17,
       name:         'Almira Azka Nurainii',
-      photo:        'assets/images/friends/friend17.jpg',
+      photo:        null,
       togetherPhoto: null,
       video:        'assets/videos/friend17.mp4',
       music:        'assets/music/friends/friend17.mp3',
-      message:      'Happy Sweet 16th Birthday, Derly! 💝 Kamu sangat spesial bagi kita semua. Ini adalah persembahan video, foto, dan lagu spesial khusus untukmu. Semoga harimu dipenuhi kebahagiaan dan semua impianmu terwujud!',
+      message:      'Happy birthday day lakeiiii!!! Thankyou for being my friend since 2024? Sebenarnya dari awal kita ga deket banget, kenal kamu karna sekelas doang pas kelas 9. Cuman karna kita sefrekuensi makanya kita terus bareng, kemana mana, dibilanh ade kaka ama pak dani bahkan pas udah lulus kita masih bareng. Thankyou for accept me as your friend (or best friend?), aku beruntung banget bisa ketemu dan kenalan bareng, walaupun ortu ku sering marah karna main kerumah kamu diam diam ahahahhaa. Setidaknya karna ortu ku kenal kamu aku bisa main jauh ga kek dulu. Aku cuman berharap kita terus berteman ampe entah semesta berkehendak. I just wanna say, whatever you are, you still my best friend kayyy?',
     },
   ],
 
@@ -867,6 +867,15 @@ function resetFriendModalVisuals() {
   modalEnvelope.classList.remove('is-open');
   modalEnvelope.hidden  = false;
   modalContent.hidden   = true;
+
+  friendModal.classList.remove('modal--special-decorations');
+
+  const polaroidFriend = $('.polaroid--friend');
+  if (polaroidFriend) {
+    polaroidFriend.hidden = false;
+    polaroidFriend.style.display = '';
+  }
+
   if (typeof modalFriendText._cancelTypewriter === 'function') {
     modalFriendText._cancelTypewriter();
   }
@@ -884,6 +893,10 @@ function openFriendModal(index) {
   friendModal.classList.add('is-active');
   friendModal.setAttribute('aria-hidden', 'false');
 
+  if (index === 16) {
+    friendModal.classList.add('modal--special-decorations');
+  }
+
   fadeOut(audioMain).then(() => {
     if (friendModal.classList.contains('is-active') && state.activeFriendIndex === index) {
       playFriendAudio(friend);
@@ -899,9 +912,21 @@ function openFriendModal(index) {
     modalEnvelope.hidden = true;
     modalContent.hidden  = false;
 
-    modalFriendPhoto.src = friend.photo;
-    modalFriendPhoto.alt = friend.name;
-    attachImageFallback(modalFriendPhoto, friend.photo.split('/').pop());
+    const polaroidFriend = $('.polaroid--friend');
+    if (friend.photo) {
+      if (polaroidFriend) {
+        polaroidFriend.hidden = false;
+        polaroidFriend.style.display = '';
+      }
+      modalFriendPhoto.src = friend.photo;
+      modalFriendPhoto.alt = friend.name;
+      attachImageFallback(modalFriendPhoto, friend.photo.split('/').pop());
+    } else {
+      if (polaroidFriend) {
+        polaroidFriend.hidden = true;
+        polaroidFriend.style.display = 'none';
+      }
+    }
 
     if (friend.togetherPhoto) {
       modalTogetherWrap.hidden      = false;
@@ -917,14 +942,22 @@ function openFriendModal(index) {
     typewrite(modalFriendText, friend.message);
     markFriendOpened(index);
 
+    const modalPhotos = $('.modal__photos');
     const modalVideoWrap = $('#modal-video-wrap');
     const modalFriendVideo = $('#modal-friend-video');
     if (friend.video) {
+      if (modalPhotos) modalPhotos.classList.add('modal__photos--has-video');
       modalVideoWrap.hidden = false;
       modalFriendVideo.src = friend.video;
       modalFriendVideo.volume = state.volume;
       modalFriendVideo.muted = state.isMuted;
       modalFriendVideo.load();
+      
+      // Autoplay
+      modalFriendVideo.play().catch((e) => {
+        console.log("Autoplay blocked:", e);
+      });
+      
       modalFriendVideo.onplay = () => {
         const audio = getCurrentAudio();
         if (audio && !audio.paused) {
@@ -933,6 +966,7 @@ function openFriendModal(index) {
         }
       };
     } else {
+      if (modalPhotos) modalPhotos.classList.remove('modal__photos--has-video');
       modalVideoWrap.hidden = true;
       modalFriendVideo.src = '';
     }
@@ -949,6 +983,11 @@ function closeFriendModal() {
   friendModal.setAttribute('aria-hidden', 'true');
   document.body.classList.remove('modal-open');
   resetFriendModalVisuals();
+
+  const modalPhotos = $('.modal__photos');
+  if (modalPhotos) {
+    modalPhotos.classList.remove('modal__photos--has-video');
+  }
 
   const modalFriendVideo = $('#modal-friend-video');
   if (modalFriendVideo) {

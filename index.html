@@ -168,6 +168,16 @@
     <div class="modal__stage">
       <button class="modal__close" id="friend-modal-close" aria-label="Close letter">✕</button>
 
+      <!-- Custom decorations for special letters -->
+      <div class="special-decorations" aria-hidden="true">
+        <span class="decor-item decor-item--left-1">🌸</span>
+        <span class="decor-item decor-item--left-2">💖</span>
+        <span class="decor-item decor-item--left-3">🌸</span>
+        <span class="decor-item decor-item--right-1">🌸</span>
+        <span class="decor-item decor-item--right-2">💖</span>
+        <span class="decor-item decor-item--right-3">🌸</span>
+      </div>
+
       <!-- Envelope opening animation layer -->
       <div class="modal__envelope" id="modal-envelope">
         <span class="modal__envelope-back"></span>
@@ -186,7 +196,7 @@
             <img id="modal-together-photo" src="" alt="" />
           </div>
           <div class="polaroid polaroid--video" id="modal-video-wrap" hidden>
-            <video id="modal-friend-video" controls playsinline style="width: 100%; border-radius: 3px; display: block; background: #000; aspect-ratio: 16/9; object-fit: contain;"></video>
+            <video id="modal-friend-video" controls playsinline style="width: 100%; border-radius: 3px; display: block; background: #000;"></video>
           </div>
         </div>
         <h3 id="modal-friend-name" class="modal__name"></h3>

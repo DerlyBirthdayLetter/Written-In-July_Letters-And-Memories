@@ -830,6 +830,17 @@ section {
   padding: 10px 10px 18px;
 }
 
+.modal__photos--has-video {
+  flex-direction: column;
+  align-items: center;
+}
+
+.modal__photos--has-video .polaroid--video {
+  width: 100%;
+  max-width: 440px;
+  padding: 10px 10px 18px;
+}
+
 .modal__name {
   font-size: 26px; color: var(--rose-deep); margin-bottom: 10px;
 }
@@ -1307,4 +1318,63 @@ body.lightbox-open { overflow: hidden; }
   color: var(--ink);
   min-height: 1.4em;
   margin: 0;
+}
+
+/* ---- Special letter decorations ---- */
+.special-decorations {
+  display: none;
+  pointer-events: none;
+}
+
+.modal--special-decorations .special-decorations {
+  display: block;
+}
+
+.decor-item {
+  position: absolute;
+  font-size: 24px;
+  opacity: 0.6;
+  z-index: 1;
+}
+
+/* Left side elements */
+.decor-item--left-1 {
+  left: 10px;
+  top: 25%;
+}
+.decor-item--left-2 {
+  left: 15px;
+  top: 50%;
+  font-size: 28px;
+}
+.decor-item--left-3 {
+  left: 12px;
+  top: 75%;
+}
+
+/* Right side elements */
+.decor-item--right-1 {
+  right: 10px;
+  top: 25%;
+}
+.decor-item--right-2 {
+  right: 15px;
+  top: 50%;
+  font-size: 28px;
+}
+.decor-item--right-3 {
+  right: 12px;
+  top: 75%;
+}
+
+@media (max-width: 480px) {
+  .decor-item {
+    font-size: 16px;
+  }
+  .decor-item--left-1 { left: 4px; }
+  .decor-item--left-2 { left: 6px; }
+  .decor-item--left-3 { left: 5px; }
+  .decor-item--right-1 { right: 4px; }
+  .decor-item--right-2 { right: 6px; }
+  .decor-item--right-3 { right: 5px; }
 }
